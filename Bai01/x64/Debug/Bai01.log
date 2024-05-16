@@ -1,0 +1,6 @@
+﻿  CPhanSo.cpp
+  Source.cpp
+  Generating Code...
+D:\UIT_K18\NAM1\HK2\OOP\23520322_BT06\Bai01\CPhanSo.cpp(98): warning C4172: returning address of local variable or temporary: temp
+D:\UIT_K18\NAM1\HK2\OOP\23520322_BT06\Bai01\CPhanSo.cpp(106): warning C4172: returning address of local variable or temporary: temp
+  Bai01.vcxproj -> D:\UIT_K18\NAM1\HK2\OOP\23520322_BT06\x64\Debug\Bai01.exe
